@@ -1,0 +1,26 @@
+.container{
+  margin-left:25%;
+  margin-top:25%;
+}
+
+.jumbotron{
+  width: 285px;
+  height:250px;
+
+}
+
+h1{
+  text-align: center;
+}
+
+#malesign{
+  height: 60px;
+  width: 60px;
+
+}
+
+#femalesign{
+  height: 60px;
+  width: 60px;
+
+}
